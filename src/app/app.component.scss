@@ -1,0 +1,28 @@
+.alignment {
+    justify-content: center;
+    display: flex;
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+}
+
+.demo-styling {
+    // fill: aliceblue;
+    // background-color: aliceblue;
+    // outline: 2px;
+    // outline-offset: 2px;
+    // scale: 0.9;
+    // stroke: red;
+    outline: 0.125rem solid #333;
+    outline-offset: 1px;
+    border-radius: 50%;
+    // stroke: #333;
+}
+
+.outerNode {
+    cursor: pointer;
+    /* stroke: red; */
+    /*outline: 2px solid red;*/
+    border-radius: 50%
+}
+
